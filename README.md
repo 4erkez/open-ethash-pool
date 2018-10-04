@@ -1,1 +1,1 @@
-# open-ethash-pool
+# Open Ethash Pool
