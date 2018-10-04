@@ -1,6 +1,6 @@
 {
-	"threads": 2,
-	"coin": "etc",
+	"threads": 1,
+	"coin": "eth",
 	"name": "main",
 	"pplns": 3000,
 
