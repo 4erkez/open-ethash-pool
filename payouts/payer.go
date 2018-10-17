@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"https://github.com/ethereum/go-ethereum/tree/master/common/hexutil"
+	"github.com/ethereum/go-ethereum/common/hexutil"
 
 	"github.com/4erkez/open-ethash-pool/rpc"
 	"github.com/4erkez/open-ethash-pool/storage"
